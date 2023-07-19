@@ -30,14 +30,14 @@ body{
 }
 
 .navbar .navbar-brand{
-    color:#ffffff;
+    color:#ed8610;
     font-size:2rem;
     font-family: var(--robot) !important;
     font-weight:bold;
 }
 
 .navbar .nav-link{
-    color:#12cfe0;
+    color:#ffffff;
     font-size:18px;
 }
 
